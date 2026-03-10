@@ -3,9 +3,12 @@
 Historias de Usuario
 HU1
 Como estudiante de la universidad, quiero visualizar el menú disponible en los diferentes puntos de venta, para conocer las opciones de comida antes de realizar mi pedido y elegir la que más me convenga.
+
+
 HU2
 Como estudiante, quiero consultar el menú del día y su disponibilidad, para evitar pedir un alimento que ya esté agotado cuando llegue al punto de venta.
 HU3
+
 Como estudiante, quiero realizar mi pedido de comida desde la aplicación antes de llegar a la cafetería,
 para ahorrar tiempo y evitar hacer largas filas durante la hora de almuerzo.
 HU4
