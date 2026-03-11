@@ -100,3 +100,11 @@ El sistema debe enviar una notificación al estudiante cuando el pedido esté li
 El sistema debe permitir visualizar el estado actual del pedido (en preparación, listo o entregado).
 
 El sistema debe enviar las notificaciones directamente al dispositivo móvil del usuario.
+
+COLABORADORES :
+WILLIAN STIVEN CACAIS ACOSTA 
+ANDREA CAMILA ORTIZ MAYORAL
+
+
+
+
