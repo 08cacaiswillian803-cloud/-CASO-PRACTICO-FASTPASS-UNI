@@ -1,4 +1,6 @@
 Caso Práctico: “FastPass Uni: Pide desde tu celular,Paga y Recoge tu Alimento”
+
+
 Descripción del Proyecto
 
 FastPass Uni es una aplicación móvil diseñada para mejorar la experiencia de los estudiantes durante la hora de almuerzo en la universidad. Actualmente, los puntos de venta y la cafetería presentan largas filas y tiempos de espera elevados, lo que provoca que muchos estudiantes pierdan gran parte de su tiempo de descanso o incluso lleguen tarde a sus clases.
@@ -43,6 +45,8 @@ El sistema debe actualizar automáticamente la disponibilidad del menú cuando s
 
 diagrama de flujo para este caso
 
+
+
 https://lucid.app/lucidchart/a6ce7f26-cad0-47bf-9ac6-b69a096eb083/edit?viewport_loc=-1005%2C-3569%2C3740%2C1695%2C0_0&invitationId=inv_ed8fa178-d116-4554-81ed-688f12d4ac6d
 
 Historia de Usuario 3: Realizar pedidos desde la aplicación
@@ -60,6 +64,8 @@ El sistema debe permitir añadir varios productos dentro de un mismo pedido.
 El sistema debe permitir confirmar el pedido antes de enviarlo al punto de venta.
 
 diagrama de flujo para este caso
+
+
 https://lucid.app/lucidchart/4148bb14-57d6-4186-a412-1add00d1c024/edit?viewport_loc=-1502%2C61%2C2753%2C1442%2C0_0&invitationId=inv_415d465f-05ba-430e-b7b3-cf7e7bb98e6d
 
 Historia de Usuario 4: Pagar el pedido desde el celular
@@ -77,6 +83,8 @@ El sistema debe informar al usuario si el pago se realizó correctamente o si fu
 El sistema debe generar un comprobante digital del pago realizado.
 
 diagramas de flujo para historias de usuario 4 y 5.
+
+
 https://lucid.app/lucidchart/1639bee4-b92c-4ded-b5e9-b9f7db8931b4/edit?view_items=y6PDiubg-4CF&page=0_0&invitationId=inv_957f3124-b503-46ef-9c14-9c98c49c4960
 
 Historia de Usuario 5: Recibir aviso cuando el pedido esté listo
